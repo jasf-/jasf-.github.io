@@ -1,6 +1,6 @@
 title: "Jen Ferguson"
-# author: "Jen Ferguson"
-# description: ""
+author: "Jen Ferguson"
+description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
@@ -27,10 +27,5 @@ external:                  # shows a footer with social links - for available ic
   - {title: Github, icon: github, url: "https://github.com/jasf-"}
   - {title: Twitter, icon: twitter, url: "https://twitter.com/__jasf"}
 
-
-comments:
-#  disqus_shortname: ""    # see https://disqus.com/
-#  isso_domain: ""         # see https://posativ.org/isso/
-
 plugins:
-# - jekyll-feed
+ - jekyll-feed
