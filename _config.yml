@@ -1,6 +1,6 @@
 title: "Jen Ferguson"
-author: "Jen Ferguson"
-description: ""
+# author: "Jen Ferguson"
+# description: ""
 permalink: /:title/
 lang: "en"
 excerpt_separator: "\n\n\n"
