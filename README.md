@@ -1,5 +1,2 @@
----
-title: "My personal website"
-permalink: "jasf-.github.io"
-layout: page
----
+# jasf-.github.io
+My (bare-bones) website
