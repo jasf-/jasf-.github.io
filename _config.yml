@@ -22,6 +22,7 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {url: "https://sites.google.com/view/jasf/home", title: "Presentations & Publications (old site)"}
   - {url: "prespubs", title: "Presentations & Publications Draft"}
   - {url: "test.html", title: "HTML test"}
+  - {file: "/prespubs.md", title: "PrezPubz"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jen@jasf.us"}
