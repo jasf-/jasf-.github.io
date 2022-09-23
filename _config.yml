@@ -20,9 +20,8 @@ navigation:                # accepts {file, title, url, icon, sidebaricon}
   # - {file: "index.html"}
   - {url: "/FergusonOnlineCV2022_08.pdf", title: "CV"}
   - {url: "https://sites.google.com/view/jasf/home", title: "Presentations & Publications (old site)"}
-  - {url: "prespubs", title: "Presentations & Publications Draft"}
   - {url: "test.html", title: "HTML test"}
-  - {file: "/prespubs.md", title: "PrezPubz"}
+ 
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
   - {title: Mail, icon: envelope, url: "mailto:jen@jasf.us"}
@@ -32,17 +31,3 @@ external:                  # shows a footer with social links - for available ic
 
 plugins:
  - jekyll-feed
- - jekyll-relative-links
-relative_links:
-  enabled: true
-  collections: true
-include:
-  - CONTRIBUTING.md
-  - README.md
-  - PRESPUBS.md
-  - LICENSE.md
-  - COPYING.md
-  - CODE_OF_CONDUCT.md
-  - CONTRIBUTING.md
-  - ISSUE_TEMPLATE.md
-  - PULL_REQUEST_TEMPLATE.md
