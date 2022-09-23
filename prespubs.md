@@ -1,5 +1,6 @@
 ---
 title: "Presentations and Publications"
+permalink: /prespubs/
 layout: Page
 ---
 Ferguson, J., and Kirchhoff, A. _(in process)._ Teaching data science and text analysis in the library. Presentation at 2022 Charleston Conference.
